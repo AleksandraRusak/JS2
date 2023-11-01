@@ -24,7 +24,7 @@ console.log(person);
 // Task 2: Add a fourth property to the object using the key `favoriteFoods`. Its value
 // should be an array of strings with some foods you like.
 
-person.favoriteFoods = ["Pizza", "Pasta", "Sushi", "Chocolate"];
+person.favoriteFoods = ["Pizza", "Pasta", "Sushi", "Rissoto"];
 
 // Task 3: Use the dot notation to print the name and age properties from the person
 // object using console.log.
